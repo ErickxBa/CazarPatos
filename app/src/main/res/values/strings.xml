@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CazarPatos</string>
+    <string name="btnLogin">Login</string>
+    <string name="Pantalla2">ActivityTwo</string>
 </resources>
